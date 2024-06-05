@@ -34,7 +34,7 @@ Version 1.0
 - Piotr Zieliński Napoli – Inter 🤟
 - T. Kross Real Madrid – Retired 💔
 - L. Bonucci Fenerbache – Retired 💔
-- Taylor Harwood-Bellis Manchester City – Southampton
+- Taylor Harwood-Bellis Manchester City – Southampton 🤟
 - Alvaro Fernandez Manchester United – Benfica 🤟
 - Luke Ayling Leeds – Middlesbrough 🤟
 - Jeff Chabot 1.FC Koln – Stuttgart 🤟
